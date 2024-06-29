@@ -1,4 +1,4 @@
 # PRACTICE
 Practicing java
 <br>
-Learning something new.
+Trying to learn something new.
